@@ -1,1 +1,1 @@
-# practicing and studying react and NextJs
+# practicing and studying Reactjs and NextJs
